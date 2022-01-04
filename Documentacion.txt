@@ -1,0 +1,4 @@
+INSTAGRAM CLONE
+
+expo init instagram --template blank
+npm install @react-navigation/native
