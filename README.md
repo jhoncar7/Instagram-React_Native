@@ -5,7 +5,7 @@ Pantallas Home and Profile
 <img src="./assets/qr_intagram.PNG" alt="QR Expo GO"/>
 
 # Screen Home
-<img src="./assets/home.jpeg" alt="Home"/>
+<img src="./assets/home.jpeg" alt="Home" width="100px" height="200px" scale="50%"/>
 
 # Screnn Profile
-<img src="./assets/profile.jpeg" alt="Profile"/>
+<img src="./assets/profile.jpeg" alt="Profile" width="50" height="50" scale="50%"/>
