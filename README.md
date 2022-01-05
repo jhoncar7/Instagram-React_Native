@@ -7,5 +7,5 @@ Pantallas Home and Profile
 # Screen Home
 <img src="./assets/home.jpeg" alt="Home" width="200px" height="400px" scale="50%"/>
 
-# Screnn Profile
+# Screen Profile
 <img src="./assets/profile.jpeg" alt="Profile" width="200px" height="400px"/>
